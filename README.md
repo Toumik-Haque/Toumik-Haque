@@ -1,3 +1,5 @@
+<img src="Toumik-Haque.png" alt="Profile Banner" width="100%" />
+
 # 👋 Hi, I'm Toumik Haque
 
 🎓 **B.Tech CSE (2028) Student**
