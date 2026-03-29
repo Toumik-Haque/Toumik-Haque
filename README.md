@@ -1,4 +1,4 @@
-<img src="https://github.com/Toumik-Haque/Toumik-Haque/blob/main/Toumik-Haque.png" alt="Profile Banner" width="100%" />
+<img src="Toumik-Profile.png" alt="Profile Banner" width="100%" />
 
 # 👋 Hi, I'm Toumik Haque
 
