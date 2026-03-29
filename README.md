@@ -51,7 +51,7 @@ Git, GitHub, VS Code
 
 ## 📊 GitHub Stats
 
-![Toumik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toumik-Haque\&show_icons=true)
+![Toumik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toumik-Haque&show_icons=true&theme=default)
 
 ---
 
