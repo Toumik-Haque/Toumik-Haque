@@ -11,7 +11,7 @@
 * 📚 2nd Year CSE Student at AGEMC (Affiliated with MAKAUT)
 * 💡 Passionate about problem solving & software development
 * 🧠 Currently learning DSA using C++
-* 🌐 Basic knowledge of Frontend (HTML, CSS, JavaScript, React)
+* 🌐 Basic knowledge of Frontend (HTML, CSS, Bootstrap, JavaScript, React)
 * 🎯 Goal: Crack top MNC placements
 
 ---
