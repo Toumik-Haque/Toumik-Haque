@@ -57,4 +57,4 @@ Git, GitHub, VS Code
 
 ## 🔗 Connect with Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+* 💼 LinkedIn: https://www.linkedin.com/in/toumik/
