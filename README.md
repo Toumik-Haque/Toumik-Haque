@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Toumik Haque
 
-<!--
-**Toumik-Haque/Toumik-Haque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (2028) Student**
+💻 **Aspiring Software Engineer**
+🚀 **Currently focused on Data Structures & Algorithms in C++**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* 📚 2nd Year CSE Student at AGEMC (Affiliated with MAKAUT)
+* 💡 Passionate about problem solving & software development
+* 🧠 Currently learning DSA using C++
+* 🌐 Basic knowledge of Frontend (HTML, CSS, JavaScript, React)
+* 🎯 Goal: Crack top MNC placements
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+C, C++, JavaScript, Python
+
+### 🌐 Frontend
+
+HTML, CSS, Bootstrap, React
+
+### ⚙️ Tools
+
+Git, GitHub, VS Code
+
+---
+
+## 📈 Current Focus
+
+* 📌 Solving DSA problems
+* 📌 Strengthening C++ concepts
+* 📌 Preparing for placements & GATE
+
+---
+
+## 📂 Featured Projects
+
+* 🔹 LMS Project
+* 🔹 E-Commerce Website
+* 🔹 ToDo App (React)
+* 🔹 Your-Penman Website Clone
+
+---
+
+## 📊 GitHub Stats
+
+![Toumik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toumik-Haque\&show_icons=true)
+
+---
+
+## 🔗 Connect with Me
+
+* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
