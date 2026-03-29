@@ -49,12 +49,6 @@ Git, GitHub, VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toumik-Haque&layout=compact)
-
----
-
 ## 🔗 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/toumik/
