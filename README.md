@@ -44,6 +44,7 @@ Git, GitHub, VS Code
 
 ## 📂 Featured Projects
 
+* 🔹 hostelLog - Hostel Management System
 * 🔹 LMS Project
 * 🔹 E-Commerce Website
 * 🔹 ToDo App (React)
